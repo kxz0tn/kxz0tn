@@ -1,23 +1,36 @@
-<p align="center">
-  <img src="terminal.svg" alt="kxz0tn" width="920" />
-</p>
+```
++--------------------------------------------------------------+
+| kxz0tn                                              [ LIVE ] |
++--------------------------------------------------------------+
+|                                                              |
+| $ whoami                                                     |
+| kxz0tn                                                       |
+|                                                              |
+| $ type BIO                                                   |
+| Spaceship! | Cross-universe travel                           |
+|                                                              |
+| $ dir                                                        |
+|                                                              |
+|   zortex              inertial space survival                |
+|   hyperspace-portal   wormhole control deck                  |
+|   cipher              arena sport                            |
+|   xenocoil            arcade core                            |
+|   void-runner         lunar survival                         |
+|   basebreaker         endless runner                         |
+|   neural-forge        electronics lab                        |
+|   aetheris            research terminal                      |
+|   high-trace          sky instrument                         |
+|                                                              |
+| $                                                            |
++--------------------------------------------------------------+
+```
 
-<p align="center">
-<a href="https://kxz0tn.github.io/Zortex/">zortex</a>
-·
-<a href="https://kxz0tn.github.io/Hyperspace-portal/">hyperspace-portal</a>
-·
-<a href="https://kxz0tn.github.io/void-runner/">void-runner</a>
-·
-<a href="https://kxz0tn.github.io/basebreaker/">basebreaker</a>
-·
-<a href="https://kxz0tn.github.io/aetheris/">aetheris</a>
-·
-<a href="https://kxz0tn.github.io/high-trace/">high-trace</a>
-·
-<a href="https://kxz0tn.github.io/neural-forge/">neural-forge</a>
-·
-<a href="https://github.com/kxz0tn/Cipher">cipher</a>
-·
-<a href="https://github.com/kxz0tn/Xenocoil">xenocoil</a>
-</p>
+[zortex](https://kxz0tn.github.io/Zortex/)  
+[hyperspace-portal](https://kxz0tn.github.io/Hyperspace-portal/)  
+[void-runner](https://kxz0tn.github.io/void-runner/)  
+[basebreaker](https://kxz0tn.github.io/basebreaker/)  
+[aetheris](https://kxz0tn.github.io/aetheris/)  
+[high-trace](https://kxz0tn.github.io/high-trace/)  
+[neural-forge](https://kxz0tn.github.io/neural-forge/)  
+[cipher](https://github.com/kxz0tn/Cipher)  
+[xenocoil](https://github.com/kxz0tn/Xenocoil)
