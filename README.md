@@ -1,27 +1,23 @@
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  DOME//OS  ·  NODE kxz0tn  ·  ACCESS LEVEL: PUBLIC           │
-│  KERNEL 0.9  ·  MONOCHROME COMMAND DECK  ·  NO COLOR SPACE   │
-└──────────────────────────────────────────────────────────────┘
-```
-
-[![boot](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2800&pause=900&color=EDEDED&background=00000000&center=true&vCenter=true&width=640&lines=boot+sequence+ok;mounting+%2Fdev%2Fvoid;NODE+kxz0tn+ONLINE;black+%2B+white+only;color+is+a+privilege)](https://github.com/kxz0tn)
+[![boot](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&duration=2600&pause=800&color=EDEDED&background=00000000&center=true&vCenter=true&width=560&lines=DOME%2F%2FOS+boot+ok;mounting+%2Fdev%2Fvoid;NODE+kxz0tn+ONLINE;palette%3A+black+%2B+white;color+is+a+privilege)](https://github.com/kxz0tn)
 
 ```
-   ██╗  ██╗██╗  ██╗███████╗ ██████╗ ████████╗███╗   ██╗
-   ██║ ██╔╝╚██╗██╔╝╚══███╔╝██╔═████╗╚══██╔══╝████╗  ██║
-   █████╔╝  ╚███╔╝   ███╔╝ ██║██╔██║   ██║   ██╔██╗ ██║
-   ██╔═██╗  ██╔██╗  ███╔╝  ████╔╝██║   ██║   ██║╚██╗██║
-   ██║  ██╗██╔╝ ██╗███████╗╚██████╔╝   ██║   ██║ ╚████║
-   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚════╝    ╚═╝   ╚═╝  ╚═══╝
-                    N O D E   k x z 0 t n
+ +--------------------------------------------------+
+ |  DOME//OS          NODE kxz0tn        PUBLIC     |
+ |  kernel 0.9        monochrome command deck       |
+ +--------------------------------------------------+
+ |                                                  |
+ |              k x z 0 t n                         |
+ |              -----------                         |
+ |              command node                        |
+ |                                                  |
+ +--------------------------------------------------+
 ```
 
 [![views](https://komarev.com/ghpvc/?username=kxz0tn&label=NODE+HITS&color=000000&style=flat-square)](https://github.com/kxz0tn)
-[![repos](https://img.shields.io/badge/SYSTEM-DOME%2F%2FOS-black?style=flat-square)](https://github.com/kxz0tn)
-[![mode](https://img.shields.io/badge/PALETTE-B%2FW-lightgrey?style=flat-square&labelColor=000000)](https://github.com/kxz0tn)
+[![sys](https://img.shields.io/badge/SYSTEM-DOME%2F%2FOS-black?style=flat-square)](https://github.com/kxz0tn)
+[![pal](https://img.shields.io/badge/PALETTE-B%2FW-lightgrey?style=flat-square&labelColor=000000)](https://github.com/kxz0tn)
 
 </div>
 
@@ -30,11 +26,11 @@ root@kxz0tn:~# whoami
 kxz0tn
 
 root@kxz0tn:~# cat /etc/motd
-────────────────────────────────────────────────────────────
+--------------------------------------------------
   Independent builder of monochrome instruments.
   Games. Simulations. Research terminals.
   If it needs neon, it does not belong here.
-────────────────────────────────────────────────────────────
+--------------------------------------------------
 
 root@kxz0tn:~# uname -a
 DOME//OS  kxz0tn  0.9-mono  #1  SMP  WEBGL + PYTHON + VOID
@@ -127,11 +123,11 @@ One HTML file. Offline. MIT.
 ### `cat /proc/stack`
 
 ```
- HTML        ████████████████░░░░  web decks / simulations
- JavaScript  ██████████████░░░░░░  runners / haulers
- Python      ████████████░░░░░░░░  arcade / arena cores
- TypeScript  ████████░░░░░░░░░░░░  research terminals
- WebGL       ██████░░░░░░░░░░░░░░  portals / sky lock
+ HTML        ###############-----  web decks / simulations
+ JavaScript  #############-------  runners / haulers
+ Python      ###########---------  arcade / arena cores
+ TypeScript  #######-------------  research terminals
+ WebGL       #####---------------  portals / sky lock
 ```
 
 ---
