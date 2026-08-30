@@ -39,53 +39,16 @@ root@kxz0tn:~# journalctl -n 4
 root@kxz0tn:~# _
 ```
 
-```
-root@kxz0tn:~# cat /opt/payloads/LAUNCH
-```
+`cat /opt/payloads/LAUNCH`
 
-```
-01  zortex
-```
-[`https://kxz0tn.github.io/Zortex/`](https://kxz0tn.github.io/Zortex/)
-
-```
-02  hyperspace-portal
-```
-[`https://kxz0tn.github.io/Hyperspace-portal/`](https://kxz0tn.github.io/Hyperspace-portal/)
-
-```
-03  void-runner
-```
-[`https://kxz0tn.github.io/void-runner/`](https://kxz0tn.github.io/void-runner/)
-
-```
-04  basebreaker
-```
-[`https://kxz0tn.github.io/basebreaker/`](https://kxz0tn.github.io/basebreaker/)
-
-```
-05  aetheris
-```
-[`https://kxz0tn.github.io/aetheris/`](https://kxz0tn.github.io/aetheris/)
-
-```
-06  high-trace
-```
-[`https://kxz0tn.github.io/high-trace/`](https://kxz0tn.github.io/high-trace/)
-
-```
-07  neural-forge
-```
-[`https://kxz0tn.github.io/neural-forge/`](https://kxz0tn.github.io/neural-forge/)
-
-```
-08  cipher
-```
-[`https://github.com/kxz0tn/Cipher`](https://github.com/kxz0tn/Cipher)
-
-```
-09  xenocoil
-```
-[`https://github.com/kxz0tn/Xenocoil`](https://github.com/kxz0tn/Xenocoil)
+- `01` [zortex](https://kxz0tn.github.io/Zortex/)
+- `02` [hyperspace-portal](https://kxz0tn.github.io/Hyperspace-portal/)
+- `03` [void-runner](https://kxz0tn.github.io/void-runner/)
+- `04` [basebreaker](https://kxz0tn.github.io/basebreaker/)
+- `05` [aetheris](https://kxz0tn.github.io/aetheris/)
+- `06` [high-trace](https://kxz0tn.github.io/high-trace/)
+- `07` [neural-forge](https://kxz0tn.github.io/neural-forge/)
+- `08` [cipher](https://github.com/kxz0tn/Cipher)
+- `09` [xenocoil](https://github.com/kxz0tn/Xenocoil)
 
 `END TRANSMISSION · NODE kxz0tn · DOME//OS`
