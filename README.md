@@ -1,23 +1,20 @@
 ```
 +----------------------------+
-| kxz0tn                LIVE |
+| C:\ kxz0tn          _ [] X |
 +----------------------------+
 |                            |
-|# #  # #  ###  ###  ###  ## |
-|##    #     #  # #   #   # #|
-|# #  # #  ###  ###   #   # #|
+| C:\Users\kxz0tn>whoami     |
+| kxz0tn                     |
 |                            |
-|  $ whoami                  |
-|  kxz0tn                    |
+| C:\Users\kxz0tn>cat BIO    |
+| Spaceship! |               |
+| Cross-universe travel      |
 |                            |
-|  $ cat BIO                 |
-|  Spaceship!                |
-|  Cross-universe travel     |
+| C:\Users\kxz0tn>open x     |
+| x.com/kxz0tn               |
 |                            |
-|  $ open x                  |
-|  x.com/kxz0tn              |
+| C:\Users\kxz0tn>_          |
 |                            |
-|  $ _                       |
 +----------------------------+
 ```
 
