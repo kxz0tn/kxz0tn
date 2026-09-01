@@ -2,9 +2,9 @@
 +----------------------------+
 |                       LIVE |
 |                            |
-|  █  █ ▀▄▀ ▀▀█ █▀█ ▀█▀ █▀▄  |
-|  ██   ▄█▄  █  █ █  █   █   |
-|  █  █ ▄▀▄ ▄▄█ █▄█  █   █   |
+|  #.# #.# ### ### ### ##.   |
+|  ##. .#. ..# #.# .#. #.#   |
+|  #.# #.# ### ### .#. #.#   |
 |                            |
 |  kxz0tn                    |
 |                            |
@@ -14,6 +14,9 @@
 |  $ cat BIO                 |
 |  Spaceship!                |
 |  Cross-universe travel     |
+|                            |
+|  $ open x                  |
+|  x.com/kxz0tn              |
 |                            |
 |  $ _                       |
 +----------------------------+
@@ -28,3 +31,5 @@
 - `[07]` [neural-forge](https://kxz0tn.github.io/neural-forge/) — electronics lab
 - `[08]` [aetheris](https://kxz0tn.github.io/aetheris/) — research terminal
 - `[09]` [high-trace](https://kxz0tn.github.io/high-trace/) — moon / ISS instrument
+
+[x.com/kxz0tn](https://x.com/kxz0tn)
