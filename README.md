@@ -1,25 +1,19 @@
 ```
-+------------------------------------------------------------+
-| C:\ kxz0tn                                           _ [] X|
-+------------------------------------------------------------+
-|                                                            |
-| C:\Users\kxz0tn>whoami                                     |
-| kxz0tn                                                     |
-|                                                            |
-| C:\Users\kxz0tn>cat BIO                                    |
-| Spaceship! | Cross-universe travel                         |
-|                                                            |
-| C:\Users\kxz0tn>open x                                     |
-| x.com/kxz0tn                                               |
-|                                                            |
-| C:\Users\kxz0tn>_                                          |
-|                                                            |
-|                                                            |
-|                                                            |
-|                                                            |
-|                                                            |
-|                                                            |
-+------------------------------------------------------------+
+┌──────────────────────────────────────────────────────────────┐
+│ SYS // NODE.kxz0tn // LINK.SECURE                      [■][×]│
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  kxz0tn@node:~$ whoami                                       │
+│  kxz0tn                                                      │
+│                                                              │
+│  kxz0tn@node:~$ cat BIO                                      │
+│  Spaceship! | Cross-universe travel                          │
+│                                                              │
+│  kxz0tn@node:~$ open LINK                                    │
+│  x.com/kxz0tn                                                │
+│                                                              │
+│  kxz0tn@node:~$ ls ./deck                                    │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 - `[01]` [zortex](https://kxz0tn.github.io/Zortex/) — inertial space survival
