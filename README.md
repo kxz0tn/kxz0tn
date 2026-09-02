@@ -1,29 +1,22 @@
 ```
-┌──────────────────────────────────────────────────────────────┐
-│ SYS // NODE.kxz0tn // LINK.SECURE                      [■][×]│
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  kxz0tn@node:~$ whoami                                       │
-│  kxz0tn                                                      │
-│                                                              │
-│  kxz0tn@node:~$ cat BIO                                      │
-│  Spaceship! | Cross-universe travel                          │
-│                                                              │
-│  kxz0tn@node:~$ open LINK                                    │
-│  x.com/kxz0tn                                                │
-│                                                              │
-│  kxz0tn@node:~$ ls ./deck                                    │
-└──────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│ SYS // NODE.kxz0tn // LINK.SECURE                              STATUS:LIVE │
+├────────────────────────────────────────────────────────────────────────────┤
+│ whoami kxz0tn             site kxz0tn.github.io             x x.com/kxz0tn │
+│ bio Spaceship! | Cross-universe travel                 ls /deck · 09 nodes │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
-- `[01]` [zortex](https://kxz0tn.github.io/Zortex/) — inertial space survival
-- `[02]` [hyperspace-portal](https://kxz0tn.github.io/Hyperspace-portal/) — wormhole control deck
-- `[03]` [cipher](https://github.com/kxz0tn/Cipher) — arena sport
-- `[04]` [xenocoil](https://github.com/kxz0tn/Xenocoil) — arcade core
-- `[05]` [void-runner](https://kxz0tn.github.io/void-runner/) — lunar survival
-- `[06]` [basebreaker](https://kxz0tn.github.io/basebreaker/) — endless runner
-- `[07]` [neural-forge](https://kxz0tn.github.io/neural-forge/) — electronics lab
-- `[08]` [aetheris](https://kxz0tn.github.io/aetheris/) — research terminal
-- `[09]` [high-trace](https://kxz0tn.github.io/high-trace/) — moon / ISS instrument
+| ID | node | role |
+|:--:|------|------|
+| 01 | [zortex](https://kxz0tn.github.io/Zortex/) | inertial space survival |
+| 02 | [hyperspace-portal](https://kxz0tn.github.io/Hyperspace-portal/) | wormhole control deck |
+| 03 | [cipher](https://github.com/kxz0tn/Cipher) | arena sport |
+| 04 | [xenocoil](https://github.com/kxz0tn/Xenocoil) | arcade core |
+| 05 | [void-runner](https://kxz0tn.github.io/void-runner/) | lunar survival |
+| 06 | [basebreaker](https://kxz0tn.github.io/basebreaker/) | endless runner |
+| 07 | [neural-forge](https://kxz0tn.github.io/neural-forge/) | electronics lab |
+| 08 | [aetheris](https://kxz0tn.github.io/aetheris/) | research terminal |
+| 09 | [high-trace](https://kxz0tn.github.io/high-trace/) | moon / ISS instrument |
 
-[x.com/kxz0tn](https://x.com/kxz0tn)
+[kxz0tn.github.io](https://kxz0tn.github.io) · [x.com/kxz0tn](https://x.com/kxz0tn)
